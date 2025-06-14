@@ -1,5 +1,9 @@
-Name : Bugga Varshitha
+# Machine Learning Lab
 
-Class: C4
+**Name:** Varsha  
+**ID:** (please fill in your student ID)  
+**Class Number:** (please fill in your class number)
 
-ID:b200438
+## Weekly Solution Notebooks
+
+All weekly solution notebooks are included in this repository. Please browse the folders or files corresponding to each week for details.
