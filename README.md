@@ -1,8 +1,8 @@
 # Machine Learning Lab
 
-**Name:** Varsha  
-**ID:** (please fill in your student ID)  
-**Class Number:** (please fill in your class number)
+**Name:** Varshitha 
+**ID:** B200438
+**Class Number:** c4
 
 ## Weekly Solution Notebooks
 
